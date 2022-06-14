@@ -546,7 +546,7 @@ case "$x" in
    fr
    ;;
    m)
-   checkuser.py
+   chuser
    ;;
    g)
    apt install nethogs -y
