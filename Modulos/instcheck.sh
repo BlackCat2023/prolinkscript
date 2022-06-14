@@ -34,7 +34,7 @@ echo -e "        \033[1;33m • \033[1;32mINSTALAÇÃO CONCLUÍDA\033[1;33m • 
 echo ""
 echo -e "\033[1;31m \033[1;33mATIVE O CHECKUSER NA OPÇÃO ( 1 ): \033[1;32m \033[0m"
 echo ""
-echo -e "\033[1;33m MAIS INFORMAÇÕES \033[1;31m(\033[1;36mTELEGRAM\033[1;31m): \033[1;37m@ALFAINTERNET\033[0m"
+echo -e "\033[1;33m MAIS INFORMAÇÕES \033[1;31m(\033[1;36mTELEGRAM\033[1;31m): \033[1;37m@PROLINK\033[0m"
 echo -ne "\033[1;36mDIGITE ENTER PRA RETORNAR \033[1;37m"; read -r
 clear
 echo -e "\033[1;31mRetornando...\033[0m"
